@@ -1,0 +1,9 @@
+.bg-secondary{
+    background: linear-gradient(45deg,black,purple);
+}
+.badge-secondary{
+    background: linear-gradient(45deg,black,purple);
+}
+.text-secondary{
+    color: indigo : important;
+}
